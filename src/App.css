@@ -1,0 +1,29 @@
+.movielist
+{
+  display:flex;
+flex-wrap: wrap;
+justify-content: space-between;
+border-style: double;
+}
+.addmovie
+{
+margin-top:  20px;
+margin-left: 50%;
+
+}
+/* .Imgfilm
+{
+  border-style: dotted;
+  width:18rem;
+} */
+
+.trailer
+{
+ 
+  margin-top: 50px;
+color: brown;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
